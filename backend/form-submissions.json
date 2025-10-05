@@ -1,0 +1,4 @@
+[
+  {"id":"c1","name":"Priya Sharma","email":"priya.sharma@example.com","title":"Full Stack Engineer","experience_years":6,"education":"Masters","skills":["React","Node","SQL","Docker"],"location":"Remote - India","gender":"Female","bio":"Worked on e-commerce stacks, building APIs and frontend dashboards."},
+  {"id":"c2","name":"Aditya Singh","email":"aditya.s@example.com","title":"ML Engineer","experience_years":3,"education":"Bachelors","skills":["Python","ML","TensorFlow"],"location":"Bangalore, India","gender":"Male","bio":"Built anomaly detection for payments. Interested in production ML."}
+]

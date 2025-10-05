@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities; body { --card-bg:#0b1220; } .card { background: rgba(255,255,255,0.03); }

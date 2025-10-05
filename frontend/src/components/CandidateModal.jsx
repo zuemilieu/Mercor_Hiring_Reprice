@@ -1,0 +1,1 @@
+// CandidateModal.jsx code here

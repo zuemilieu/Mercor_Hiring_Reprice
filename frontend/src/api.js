@@ -1,0 +1,1 @@
+import axios from 'axios'; const API = axios.create({ baseURL: 'http://localhost:4000/api' }); export async function fetchCandidates(){const res=await API.get('/candidates');return res.data;} export async function fetchCandidateById(id){const res=await API.get(`/candidates/${id}`);return res.data;}

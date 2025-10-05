@@ -1,0 +1,1 @@
+// CandidateTable.jsx code here
